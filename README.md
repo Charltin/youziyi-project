@@ -6,10 +6,10 @@
 
 # 界面功能流程图
   + 学生端
-  ![image](https://user-images.githubusercontent.com/68725610/161490816-5c8953f4-4fb9-45db-941b-86d632014b38.png)
+  + ![image](https://user-images.githubusercontent.com/68725610/161490816-5c8953f4-4fb9-45db-941b-86d632014b38.png)
   
   + 老师端
-  ![image](https://user-images.githubusercontent.com/68725610/161490868-760823b8-eb72-41e9-a635-7e4db7008e5b.png)
+  + ![image](https://user-images.githubusercontent.com/68725610/161490868-760823b8-eb72-41e9-a635-7e4db7008e5b.png)
 
 # 产品界面
   + 登录页面
